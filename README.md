@@ -49,4 +49,4 @@ The data is hosted on a [kaggle](https://www.kaggle.com/arashnic/fitbit]. The pr
 
 ## [Data processing and analysis](https://github.com/naviag/Data-Analytics/blob/main/notebookc8783c0cd0(1).ipynb)
 
-Check out the Jupyternotebook with cleaning, analysis process, findings, and recomendations [Data processing and analysis](https://github.com/naviag/Data-Analytics/blob/main/case-study.ipynb)
+Check out the Jupyternotebook with cleaning, analysis process, findings, and recomendations [Data processing and analysis](https://github.com/naviag/Data-Analytics/blob/main/case_study.ipynb)
