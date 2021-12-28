@@ -47,5 +47,4 @@ The dataset is provided by Möbius on kaggle (https://www.kaggle.com/arashnic/fi
 
 The data is hosted on a [kaggle](https://www.kaggle.com/arashnic/fitbit]. The project folder for this data analysis was set up in a local device with sub-folders for scripts, images, documentation and data. The data folder had raw data and cleaned data sub-folders. The original dataset was downloaded to the raw data sub-folder.
 
-## Data processing and analysis
-
+## [Data processing and analysis](https://github.com/naviag/Data-Analytics/blob/main/notebookc8783c0cd0.ipynb)
